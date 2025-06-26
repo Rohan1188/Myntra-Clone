@@ -38,24 +38,6 @@ This is a front-end UI project only. It does **not** include backend functionali
 
 ---
 
-## 📂 Folder Structure
-
-```
-Myntra-Clone/
-├── Index.html
-├── index.css
-├── /Product_Page/
-│   ├── mens.html
-│   ├── womens.html
-├── /LOGIN/
-│   └── Signup.html
-├── /cart/
-│   └── cartPage.html
-└── (Image URLs used are mostly external links from Myntra)
-```
-
----
-
 ## 💻 Technologies Used
 
 - ✅ HTML5  
@@ -91,10 +73,6 @@ Start index.html with Live Server (if using VS Code), or double-click on the fil
 
 > Add screenshots of your project like:
 
-- 🖥️ Navbar with dropdown  
-- 🖥️ Homepage banners  
-- 🖥️ Product categories grid  
-- 🖥️ Deals of the day section  
 
 ---
 
