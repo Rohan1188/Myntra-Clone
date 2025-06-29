@@ -3,6 +3,13 @@
 
 This project is a front-end clone of **Myntra**, one of India's leading online fashion retailers. It mimics the look and feel of Myntra's homepage and showcases different product categories like Men, Women, Kids, Home & Living, Beauty, and more.
 
+# OverView:
+![image](https://github.com/user-attachments/assets/1693aa21-1362-46ab-9458-6a1221c3e8f9)
+![image](https://github.com/user-attachments/assets/da1a527a-4026-4275-8a42-307ab16e43f3)
+![image](https://github.com/user-attachments/assets/889af10a-0940-4a92-9a6d-57e8a3b5dd69)
+![image](https://github.com/user-attachments/assets/4223191a-aa49-406f-9d91-4cc85ef09e7a)
+![image](https://github.com/user-attachments/assets/7db8a417-273f-4971-954a-ec51b8ecb624)
+
 ---
 
 ## 📌 Table of Contents
